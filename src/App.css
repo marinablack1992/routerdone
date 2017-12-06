@@ -12,6 +12,7 @@
   height: 200px;
   background: linear-gradient(to left, red, yellow);
   text-shadow: 2px 2px;
+  box-shadow: 5px 10px black;
 }
 
 .love {
