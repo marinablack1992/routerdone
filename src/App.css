@@ -13,6 +13,11 @@
   background: linear-gradient(to left, red, yellow);
   text-shadow: 2px 2px;
   box-shadow: 5px 10px black;
+  opacity: 0.5;
+	transition-property: opacity;
+}
+hey:hover {
+  opacity: 1;
 }
 
 .love {
