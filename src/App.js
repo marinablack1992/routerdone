@@ -8,6 +8,8 @@ class App extends Component {
     return (
       <div className="App">
         {router}
+        <div className='hey'>Hey, this is the app component.</div>
+        <div className='love'>It loves life.</div>
       </div>
     );
   }
